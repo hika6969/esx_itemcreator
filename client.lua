@@ -1,6 +1,6 @@
 ESX = exports["es_extended"]:getSharedObject()
 
-RegisterCommand("Createitem2", function()
+RegisterCommand("Createitem", function()
     local input = lib.inputDialog('Create Item Or Update', {
         {type = 'input', label = 'Item Name', description = 'Enter Item Name You Want To Create', required = true, min = 0, max = 100},
         {type = 'input', label = 'Item Label', description = 'Enter Item Label You Want To Create', required = true, min = 0, max = 100},

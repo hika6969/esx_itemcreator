@@ -11,3 +11,4 @@ Using perms in server.lua put ur desired idenfier
 
 
 /createitem After creating items restart server
+If item already exists it will update label and weight

@@ -18,5 +18,7 @@ server_scripts {
 	'server.lua',
 	'@oxmysql/lib/MySQL.lua',
 }
-
+dependencies {
+	'ox_lib',
+}
 lua54 'yes'

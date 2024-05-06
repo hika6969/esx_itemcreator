@@ -8,6 +8,6 @@
 
 Basic item Creator 
 Using perms in server.lua put ur desired idenfier
-/createitem
 
-After creating items restart server
+
+/createitem After creating items restart server
